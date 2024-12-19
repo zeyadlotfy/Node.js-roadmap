@@ -356,6 +356,7 @@ ________________________________________________________
 
 ### Express.js Resources 📚
 - [Express.js & MongoDB Course 4:11 codeZone](https://youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2)
+- [Youssef Abbas ](https://youtube.com/playlist?list=PL5gCk5NdNx586mk_JOhe30dd59IgrFG_U&si=e6gr4Lx6N23zk4NW)
 - [7:63 KMR Script](https://youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp)
 - [13:79 Emam Academy](https://youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7)
 - [Express.js Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
